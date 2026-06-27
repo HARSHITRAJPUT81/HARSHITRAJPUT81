@@ -50,11 +50,13 @@ class Harshit:
 
 ## $ git log --oneline ./projects/
 
+## $ git log --oneline ./projects/
+
 | commit | project | stack | status |
 |--------|---------|-------|--------|
-| `a3f91bc` | [logsense](../logsense) | Python · NLP | ✅ shipped |
-| `7e20dd1` | [Chemical Equipment Visualizer](../Chemical-Equipment-Parameter-Visualizer-Hybrid-Web-Desktop-App-) | JS · React | ✅ shipped |
-| `c84fa22` | [LeetCode Solutions](../leetcode-solutions) | C++ · Python | 🔄 ongoing |
+| `a3f91bc` | [logsense-AI](https://github.com/HARSHITRAJPUT81/logsense) | Python · NLP | ✅ shipped |
+| `7e20dd1` | [Chemical Equipment Visualizer](https://github.com/HARSHITRAJPUT81/Chemical-Equipment-Parameter-Visualizer-Hybrid-Web-Desktop-App-) | JS · React | ✅ shipped |
+| `c84fa22` | [LeetCode Solutions](https://github.com/HARSHITRAJPUT81/leetcode-solutions) | C++ · Python | 🔄 ongoing |
 | `HEAD` | next big thing... | 🤫 | 🚧 building |
 
 ---
