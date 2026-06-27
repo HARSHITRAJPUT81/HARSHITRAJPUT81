@@ -1,4 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════╗ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITRAJPUT81&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41" height="150"/><!-- ╔══════════════════════════════════════════════════╗ -->
 <!-- ║   HARSHIT RAJPUT — GitHub Profile README        ║ -->
 <!-- ╚══════════════════════════════════════════════════╝ -->
 
@@ -81,3 +81,4 @@ class Harshit:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitrajput9r@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=HARSHITRAJPUT81&style=flat-square&color=00ff41&label=visitors"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHITRAJPUT81&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
