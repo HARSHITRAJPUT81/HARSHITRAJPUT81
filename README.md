@@ -27,8 +27,8 @@ class Harshit:
     name       = "Harshit Rajput"
     location   = "Kanpur, India 🇮🇳"
     role       = "CS Student → Full Stack Developer"
-    currently  = ["building cool things", "cracking LeetCode", "learning system design"]
-    ask_me     = ["Python", "JavaScript", "DSA", "Web Dev"]
+    currently  = ["building AI tools", "cracking LeetCode", "learning system design"]
+    ask_me     = ["Python", "JavaScript", "DSA", "Web Dev", "Linux", "AI APIs"]
     fun_fact   = "I debug in my dreams 🫠"
 
     def greet(self):
@@ -43,7 +43,8 @@ class Harshit:
 <tr><td><b>Languages</b></td><td>Python · JavaScript · C++ · HTML/CSS</td></tr>
 <tr><td><b>Frontend</b></td><td>React · Tailwind CSS · Bootstrap</td></tr>
 <tr><td><b>Backend</b></td><td>Node.js · Flask · REST APIs</td></tr>
-<tr><td><b>Tools</b></td><td>Git · GitHub · VS Code · Linux</td></tr>
+<tr><td><b>AI/ML</b></td><td>Groq · LLaMA · Prompt Engineering</td></tr>
+<tr><td><b>Tools</b></td><td>Git · GitHub · VS Code · Linux · CLI</td></tr>
 </table>
 
 ---
@@ -54,7 +55,7 @@ class Harshit:
 
 | commit | project | stack | status |
 |--------|---------|-------|--------|
-| `a3f91bc` | [logsense-AI](https://github.com/HARSHITRAJPUT81/logsense) | Python · NLP | ✅ shipped |
+| `a3f91bc` | [logsense-AI](https://github.com/HARSHITRAJPUT81/logsense-AI) | Python · AI · CLI | ✅ shipped |
 | `7e20dd1` | [Chemical Equipment Visualizer](https://github.com/HARSHITRAJPUT81/Chemical-Equipment-Parameter-Visualizer-Hybrid-Web-Desktop-App-) | JS · React | ✅ shipped |
 | `c84fa22` | [LeetCode Solutions](https://github.com/HARSHITRAJPUT81/leetcode-solutions) | C++ · Python | 🔄 ongoing |
 | `HEAD` | next big thing... | 🤫 | 🚧 building |
